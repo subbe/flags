@@ -620,7 +620,7 @@
 ![Vietnam](https://raw.githubusercontent.com/subbe/flags/main/VNM.png?raw=true)  
   
 ## Wales  
-![Wales](https://raw.githubusercontent.com/subbe/flags/main/GBR.png?raw=true)  
+![Wales](https://raw.githubusercontent.com/subbe/flags/main/WAL.png?raw=true)  
   
 ## Yemen  
 ![Yemen](https://raw.githubusercontent.com/subbe/flags/main/YEM.png?raw=true)  
