@@ -185,7 +185,7 @@
 ![El Salvador](https://raw.githubusercontent.com/subbe/flags/main/SLV.png?raw=true)  
   
 ## England  
-![England](https://raw.githubusercontent.com/subbe/flags/main/GBR.png?raw=true)  
+![England](https://raw.githubusercontent.com/subbe/flags/main/ENG.png?raw=true)  
   
 ## Equatorial Guinea  
 ![Equatorial Guinea](https://raw.githubusercontent.com/subbe/flags/main/GNQ.png?raw=true)  
@@ -485,7 +485,7 @@
 ![Saudi Arabia](https://raw.githubusercontent.com/subbe/flags/main/SAU.png?raw=true)  
   
 ## Scotland  
-![Scotland](https://raw.githubusercontent.com/subbe/flags/main/GBR.png?raw=true)  
+![Scotland](https://raw.githubusercontent.com/subbe/flags/main/SCO.png?raw=true)  
   
 ## Senegal  
 ![Senegal](https://raw.githubusercontent.com/subbe/flags/main/SEN.png?raw=true)  
